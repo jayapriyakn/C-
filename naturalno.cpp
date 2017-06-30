@@ -5,7 +5,7 @@ void main()
 int no,s,j;
 cout<<"Enter the number";
 cin>>no;
-for(i=1i<=no;i++)
+for(i=1;i<=no;i++)
 {
 s=s+i;
 }
