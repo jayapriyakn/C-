@@ -5,11 +5,11 @@ void main()
 string str;
 int no;
 clrscr();
-cout<<"Enter a atring";
+cout<<"Enter a string";
 cin>>str;
 while(no<=5)
 {
-cout<<"HELLO"<<str;
+cout<<str;
 no++;
 }
 }
